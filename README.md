@@ -1,6 +1,6 @@
 # Pour commencer
 
-## Introduciton
+## Introduction
 
 Nos travaux implémentent la méthode décrite dans le document "report.pdf" présent dans le dossier principal
 
