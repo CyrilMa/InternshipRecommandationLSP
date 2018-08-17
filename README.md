@@ -8,6 +8,7 @@ Nos travaux implémentent la méthode décrite dans le document "report.pdf" pr�
 - Le dossier "data/" regroupe les fichiers de données utilisés
 - Le dossier "exports/" regroupe les outputs (scoring, fichier de liens prédits) des algorithmes de prédiction d'activité
 - Le dossier "graph/" regroupe les fichiers consacrés à la construction de flots de liens
+- Le dossier "conf/" regroupe les fichiers de configuration utilisés pour l'algorithme de prédiction d'activité
 
 ## Prerequis
 

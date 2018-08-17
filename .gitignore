@@ -1,5 +1,3 @@
-exports/
-graph/data/
 *.csv
 *.pyc
 *.txt
